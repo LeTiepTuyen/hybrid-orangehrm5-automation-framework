@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <!--        <listener class-name="org.uncommons.reportng.HTMLReporter"/>-->
+        <!--        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>-->
+        <listener class-name="commons.MethodListener"/> <!-- show all failed number/error m -->
+        <!--        <listener class-name="reportConfigs.AllureListener"/>-->
+        <!--        <listener class-name="jiraConfigs.JiraListener"/>-->
+    </listeners>
+    <parameter name="userUrl" value="http://demo.nopcommerce/"/>
+
+    <test verbose="1" preserve-order="true"
+          name="Run on firefox driver">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="com.nopcommerce.common.Login"/>
+            <class name="com.nopcommerce.users.Level_20_Share_State_Close_Browser"/>
+        </classes>
+    </test>
+
+
+    <!--    <parameter name="adminUrl" value="http://demo.nopcommerce/admin"/>-->
+    <!--    <test verbose="1" preserve-order="true"-->
+    <!--          name="Run on chrome driver">-->
+    <!--        <parameter name="browser" value="chrome"/>-->
+    <!--        <classes>-->
+    <!--            <class name="com.nopcommerce.users.Level_16_AllureReport"/>-->
+    <!--        </classes>-->
+    <!--    </test>-->
+
+    <!--    <test verbose="0" preserve-order="true"-->
+    <!--          name="Run on edge driver">-->
+    <!--        <parameter name="browser" value="edge"/>-->
+    <!--        <classes>-->
+    <!--            <class name="com.nopcommerce.users.Level_14_Log4J"/>-->
+    <!--        </classes>-->
+    <!--    </test>-->
+
+</suite>

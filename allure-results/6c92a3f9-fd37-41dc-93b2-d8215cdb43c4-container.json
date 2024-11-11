@@ -1,0 +1,38 @@
+{
+  "uuid": "6c92a3f9-fd37-41dc-93b2-d8215cdb43c4",
+  "name": "com.nopcommerce.users.Level_16_AllureReport",
+  "children": [
+    "d8eebf80-4250-4a95-ad3f-b52ce79186e5",
+    "489ce976-9281-4dc9-a589-30a61bb35de4",
+    "54d0c55e-e8bb-4124-bb6b-14333519fe6a",
+    "4428d2f9-4b97-40ef-bccc-3ae9dff37f89"
+  ],
+  "befores": [
+    {
+      "name": "beforeClass",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1729526505850,
+      "stop": 1729526510224
+    }
+  ],
+  "afters": [
+    {
+      "name": "afterClass",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1729526514198,
+      "stop": 1729526515431
+    }
+  ],
+  "start": 1729526505817,
+  "stop": 1729526515443
+}

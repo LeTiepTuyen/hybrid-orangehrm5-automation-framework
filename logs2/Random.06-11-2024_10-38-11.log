@@ -1,0 +1,4 @@
+[06-11-2024 10:38:20.243 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 10:38:20.247 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (d80375d6-3e3e-4008-b03f-6de0878df89c)
+[06-11-2024 10:38:21.216 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 10:38:21.221 INFO com.orangehrm.pim.PIM_01_Employee] - Error during closing driver: Cannot run program "pkill": CreateProcess error=2, The system cannot find the file specified

@@ -1,0 +1,1 @@
+{"uuid":"7ac241c7-eb39-4088-ad0d-6c0eb4d941b2","name":"All Test Suite","children":["7b0313e4-c228-49ef-bfbd-e674c424be67"],"befores":[{"name":"deleteFileInReport","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1729527693083,"stop":1729527693092}],"afters":[],"start":1729527693058,"stop":1729527701888}

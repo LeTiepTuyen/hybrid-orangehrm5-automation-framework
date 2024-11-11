@@ -1,0 +1,4 @@
+[06-11-2024 16:48:13.833 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------FAILED-----------------------
+[06-11-2024 16:48:13.943 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 16:48:13.943 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (1fe816de-6faa-4f42-9651-8dc531af4da8)
+[06-11-2024 16:48:15.076 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.

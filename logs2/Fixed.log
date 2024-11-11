@@ -1,0 +1,485 @@
+[16-10-2024 16:58:57.790 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 01: Open Register Page
+[16-10-2024 16:58:59.745 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 02: Click To Male Radio
+[16-10-2024 16:59:00.065 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 03: Enter To First Name TextboxJohn
+[16-10-2024 16:59:00.256 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 04: Enter To Last Name TextboxWick
+[16-10-2024 16:59:00.342 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 05: Select Day Dropdown31
+[16-10-2024 16:59:00.675 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 06: Select Month DropdownJanuary
+[16-10-2024 16:59:00.975 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 07: Select Year Dropdown2002
+[16-10-2024 16:59:01.293 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 08: Enter To Email Textboxjohnwick612473@gmail.com
+[16-10-2024 16:59:01.413 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 09: Enter To Company TextboxJohn Wick Company
+[16-10-2024 16:59:01.477 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 10: Enter To Password Textbox123456789
+[16-10-2024 16:59:01.537 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 11: Enter To Confirm Password Textbox123456789
+[16-10-2024 16:59:01.590 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 12: Click To Register Button
+[16-10-2024 16:59:02.425 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 13: Verify Register Success Message
+[16-10-2024 16:59:02.473 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 01: Click To Logout Link
+[16-10-2024 16:59:02.717 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 02: Open Home Page
+[16-10-2024 16:59:04.280 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 03: Enter To Email Textboxjohnwick612473@gmail.com
+[16-10-2024 16:59:04.644 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 04: Verify My Account Link Displayed
+[16-10-2024 16:59:04.698 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 01: Open Customer Info Page
+[16-10-2024 16:59:05.736 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 02: Verify Gender Male Radio is selected
+[16-10-2024 16:59:05.768 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 03: Verify First Name Textbox is displayedJohn
+[16-10-2024 16:59:05.800 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 04: Verify Last Name Textbox is displayedWick
+[16-10-2024 16:59:05.826 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 05: Verify Day Dropdown is displayed31
+[16-10-2024 16:59:06.036 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 06: Verify Month Dropdown is displayedJanuary
+[16-10-2024 16:59:06.092 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 07: Verify Year Dropdown is displayed2002
+[16-10-2024 16:59:06.438 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 08: Verify Email Textbox is displayedjohnwick612473@gmail.com
+[16-10-2024 16:59:06.462 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 09: Verify Company Textbox is displayedJohn Wick Company
+[16-10-2024 16:59:06.487 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 01: Open Address Page
+[16-10-2024 16:59:06.850 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 02: Open Reward Point Page
+[16-10-2024 16:59:07.332 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 03: Open Order Page
+[16-10-2024 16:59:08.013 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 04: Open Address Page
+[16-10-2024 16:59:08.175 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 05: Open Customer Info Page
+[16-10-2024 17:00:38.589 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 01: Open Register Page
+[16-10-2024 17:00:38.956 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 02: Click To Male Radio
+[16-10-2024 17:00:39.352 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 03: Enter To First Name TextboxJohn
+[16-10-2024 17:00:39.499 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 04: Enter To Last Name TextboxWick
+[16-10-2024 17:00:39.567 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 05: Select Day Dropdown31
+[16-10-2024 17:00:39.871 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 06: Select Month DropdownJanuary
+[16-10-2024 17:00:40.198 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 07: Select Year Dropdown2002
+[16-10-2024 17:00:40.559 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 08: Enter To Email Textboxjohnwick156132@gmail.com
+[16-10-2024 17:00:40.636 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 09: Enter To Company TextboxJohn Wick Company
+[16-10-2024 17:00:40.707 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 10: Enter To Password Textbox123456789
+[16-10-2024 17:00:40.761 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 11: Enter To Confirm Password Textbox123456789
+[16-10-2024 17:00:40.811 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 12: Click To Register Button
+[16-10-2024 17:00:41.135 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 13: Verify Register Success Message
+[16-10-2024 17:00:41.203 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 01: Click To Logout Link
+[16-10-2024 17:00:41.478 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 02: Open Home Page
+[16-10-2024 17:00:41.691 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 03: Enter To Email Textboxjohnwick156132@gmail.com
+[16-10-2024 17:00:42.067 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 04: Verify My Account Link Displayed
+[16-10-2024 17:00:42.127 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 01: Open Customer Info Page
+[16-10-2024 17:00:42.324 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 02: Verify Gender Male Radio is selected
+[16-10-2024 17:00:42.352 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 03: Verify First Name Textbox is displayedJohn
+[16-10-2024 17:00:42.383 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 04: Verify Last Name Textbox is displayedWick
+[16-10-2024 17:00:42.411 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 05: Verify Day Dropdown is displayed31
+[16-10-2024 17:00:42.565 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 06: Verify Month Dropdown is displayedJanuary
+[16-10-2024 17:00:42.615 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 07: Verify Year Dropdown is displayed2002
+[16-10-2024 17:00:42.991 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 08: Verify Email Textbox is displayedjohnwick156132@gmail.com
+[16-10-2024 17:00:43.015 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 09: Verify Company Textbox is displayedJohn Wick Company
+[16-10-2024 17:00:43.039 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 01: Open Address Page
+[16-10-2024 17:00:43.236 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 02: Open Reward Point Page
+[16-10-2024 17:00:43.437 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 03: Open Order Page
+[16-10-2024 17:00:43.676 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 04: Open Address Page
+[16-10-2024 17:00:43.841 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 05: Open Customer Info Page
+[16-10-2024 17:20:44.622 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 01: Open Register Page
+[16-10-2024 17:20:44.958 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 02: Click To Male Radio
+[16-10-2024 17:20:45.334 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 03: Enter To First Name TextboxJohn
+[16-10-2024 17:20:45.468 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 04: Enter To Last Name TextboxWick
+[16-10-2024 17:20:45.523 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 05: Select Day Dropdown31
+[16-10-2024 17:20:45.813 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 06: Select Month DropdownJanuary
+[16-10-2024 17:20:46.132 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 07: Select Year Dropdown2002
+[16-10-2024 17:20:46.403 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 08: Enter To Email Textboxjohnwick134358@gmail.com
+[16-10-2024 17:20:46.454 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 09: Enter To Company TextboxJohn Wick Company
+[16-10-2024 17:20:46.510 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 10: Enter To Password Textbox123456789
+[16-10-2024 17:20:46.557 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 11: Enter To Confirm Password Textbox123456789
+[16-10-2024 17:20:46.608 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 12: Click To Register Button
+[16-10-2024 17:20:46.889 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 13: Verify Register Success Message
+[16-10-2024 17:20:46.947 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 01: Click To Logout Link
+[16-10-2024 17:20:47.166 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 02: Open Home Page
+[16-10-2024 17:20:47.354 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 03: Enter To Email Textboxjohnwick134358@gmail.com
+[16-10-2024 17:20:47.671 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 04: Verify My Account Link Displayed
+[16-10-2024 17:20:47.731 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 01: Open Customer Info Page
+[16-10-2024 17:20:47.911 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 02: Verify Gender Male Radio is selected
+[16-10-2024 17:20:47.943 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 03: Verify First Name Textbox is displayedJohn
+[16-10-2024 17:20:47.970 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 04: Verify Last Name Textbox is displayedWick
+[16-10-2024 17:20:47.997 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 05: Verify Day Dropdown is displayed31
+[16-10-2024 17:20:48.147 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 06: Verify Month Dropdown is displayedJanuary
+[16-10-2024 17:20:48.198 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 07: Verify Year Dropdown is displayed2002
+[16-10-2024 17:20:48.512 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 08: Verify Email Textbox is displayedjohnwick134358@gmail.com
+[16-10-2024 17:20:48.533 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 09: Verify Company Textbox is displayedJohn Wick Company
+[16-10-2024 17:20:48.556 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 01: Open Address Page
+[16-10-2024 17:20:48.716 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 02: Open Reward Point Page
+[16-10-2024 17:20:48.937 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 03: Open Order Page
+[16-10-2024 17:20:49.165 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 04: Open Address Page
+[16-10-2024 17:20:49.331 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 05: Open Customer Info Page
+[16-10-2024 17:20:56.731 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 01: Open Register Page
+[16-10-2024 17:20:56.992 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 02: Click To Male Radio
+[16-10-2024 17:20:57.126 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 03: Enter To First Name TextboxJohn
+[16-10-2024 17:20:57.292 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 04: Enter To Last Name TextboxWick
+[16-10-2024 17:20:57.432 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 05: Select Day Dropdown31
+[16-10-2024 17:20:57.562 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 06: Select Month DropdownJanuary
+[16-10-2024 17:20:57.667 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 07: Select Year Dropdown2002
+[16-10-2024 17:20:57.772 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 08: Enter To Email Textboxjohnwick147436@gmail.com
+[16-10-2024 17:20:58.045 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 09: Enter To Company TextboxJohn Wick Company
+[16-10-2024 17:20:58.234 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 10: Enter To Password Textbox123456789
+[16-10-2024 17:20:58.392 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 11: Enter To Confirm Password Textbox123456789
+[16-10-2024 17:20:58.543 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 12: Click To Register Button
+[16-10-2024 17:20:58.728 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 13: Verify Register Success Message
+[16-10-2024 17:20:58.824 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 01: Click To Logout Link
+[16-10-2024 17:20:59.031 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 02: Open Home Page
+[16-10-2024 17:20:59.217 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 03: Enter To Email Textboxjohnwick147436@gmail.com
+[16-10-2024 17:20:59.737 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 04: Verify My Account Link Displayed
+[16-10-2024 17:20:59.834 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 01: Open Customer Info Page
+[16-10-2024 17:21:00.017 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 02: Verify Gender Male Radio is selected
+[16-10-2024 17:21:00.062 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 03: Verify First Name Textbox is displayedJohn
+[16-10-2024 17:21:00.106 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 04: Verify Last Name Textbox is displayedWick
+[16-10-2024 17:21:00.151 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 05: Verify Day Dropdown is displayed31
+[16-10-2024 17:21:00.441 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 06: Verify Month Dropdown is displayedJanuary
+[16-10-2024 17:21:00.512 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 07: Verify Year Dropdown is displayed2002
+[16-10-2024 17:21:01.206 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 08: Verify Email Textbox is displayedjohnwick147436@gmail.com
+[16-10-2024 17:21:01.244 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 09: Verify Company Textbox is displayedJohn Wick Company
+[16-10-2024 17:21:01.281 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 01: Open Address Page
+[16-10-2024 17:21:01.454 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 02: Open Reward Point Page
+[16-10-2024 17:21:01.622 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 03: Open Order Page
+[16-10-2024 17:21:01.807 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 04: Open Address Page
+[16-10-2024 17:21:01.969 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 05: Open Customer Info Page
+[16-10-2024 17:26:15.228 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 01: Open Register Page
+[16-10-2024 17:26:15.573 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 02: Click To Male Radio
+[16-10-2024 17:26:15.894 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 03: Enter To First Name TextboxJohn
+[16-10-2024 17:26:16.153 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 04: Enter To Last Name TextboxWick
+[16-10-2024 17:26:16.226 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 05: Select Day Dropdown31
+[16-10-2024 17:26:16.558 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 06: Select Month DropdownJanuary
+[16-10-2024 17:26:16.856 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 07: Select Year Dropdown2002
+[16-10-2024 17:26:17.170 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 08: Enter To Email Textboxjohnwick822301@gmail.com
+[16-10-2024 17:26:17.260 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 09: Enter To Company TextboxJohn Wick Company
+[16-10-2024 17:26:17.338 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 10: Enter To Password Textbox123456789
+[16-10-2024 17:26:17.403 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 11: Enter To Confirm Password Textbox123456789
+[16-10-2024 17:26:17.449 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 12: Click To Register Button
+[16-10-2024 17:26:17.765 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 13: Verify Register Success Message
+[16-10-2024 17:26:17.825 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 01: Click To Logout Link
+[16-10-2024 17:26:18.084 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 02: Open Home Page
+[16-10-2024 17:26:18.263 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 03: Enter To Email Textboxjohnwick822301@gmail.com
+[16-10-2024 17:26:18.564 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 04: Verify My Account Link Displayed
+[16-10-2024 17:26:18.617 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 01: Open Customer Info Page
+[16-10-2024 17:26:18.782 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 02: Verify Gender Male Radio is selected
+[16-10-2024 17:26:18.815 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 03: Verify First Name Textbox is displayedJohn
+[16-10-2024 17:26:18.849 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 04: Verify Last Name Textbox is displayedWick
+[16-10-2024 17:26:18.877 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 05: Verify Day Dropdown is displayed31
+[16-10-2024 17:26:19.029 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 06: Verify Month Dropdown is displayedJanuary
+[16-10-2024 17:26:19.082 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 07: Verify Year Dropdown is displayed2002
+[16-10-2024 17:26:19.466 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 08: Verify Email Textbox is displayedjohnwick822301@gmail.com
+[16-10-2024 17:26:19.488 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 09: Verify Company Textbox is displayedJohn Wick Company
+[16-10-2024 17:26:19.513 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 01: Open Address Page
+[16-10-2024 17:26:19.668 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 02: Open Reward Point Page
+[16-10-2024 17:26:19.857 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 03: Open Order Page
+[16-10-2024 17:26:20.084 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 04: Open Address Page
+[16-10-2024 17:26:20.253 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 05: Open Customer Info Page
+[16-10-2024 17:26:23.466 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 01: Open Register Page
+[16-10-2024 17:26:23.731 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 02: Click To Male Radio
+[16-10-2024 17:26:23.864 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 03: Enter To First Name TextboxJohn
+[16-10-2024 17:26:24.030 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 04: Enter To Last Name TextboxWick
+[16-10-2024 17:26:24.170 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 05: Select Day Dropdown31
+[16-10-2024 17:26:24.286 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 06: Select Month DropdownJanuary
+[16-10-2024 17:26:24.391 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 07: Select Year Dropdown2002
+[16-10-2024 17:26:24.498 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 08: Enter To Email Textboxjohnwick713199@gmail.com
+[16-10-2024 17:26:24.716 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 09: Enter To Company TextboxJohn Wick Company
+[16-10-2024 17:26:24.903 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 10: Enter To Password Textbox123456789
+[16-10-2024 17:26:25.052 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 11: Enter To Confirm Password Textbox123456789
+[16-10-2024 17:26:25.222 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 12: Click To Register Button
+[16-10-2024 17:26:25.392 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 13: Verify Register Success Message
+[16-10-2024 17:26:25.477 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 01: Click To Logout Link
+[16-10-2024 17:26:25.653 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 02: Open Home Page
+[16-10-2024 17:26:25.844 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 03: Enter To Email Textboxjohnwick713199@gmail.com
+[16-10-2024 17:26:26.338 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 04: Verify My Account Link Displayed
+[16-10-2024 17:26:26.430 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 01: Open Customer Info Page
+[16-10-2024 17:26:26.626 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 02: Verify Gender Male Radio is selected
+[16-10-2024 17:26:26.667 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 03: Verify First Name Textbox is displayedJohn
+[16-10-2024 17:26:26.711 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 04: Verify Last Name Textbox is displayedWick
+[16-10-2024 17:26:26.750 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 05: Verify Day Dropdown is displayed31
+[16-10-2024 17:26:27.055 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 06: Verify Month Dropdown is displayedJanuary
+[16-10-2024 17:26:27.138 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 07: Verify Year Dropdown is displayed2002
+[16-10-2024 17:26:27.837 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 08: Verify Email Textbox is displayedjohnwick713199@gmail.com
+[16-10-2024 17:26:27.874 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 09: Verify Company Textbox is displayedJohn Wick Company
+[16-10-2024 17:26:27.912 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 01: Open Address Page
+[16-10-2024 17:26:28.092 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 02: Open Reward Point Page
+[16-10-2024 17:26:28.267 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 03: Open Order Page
+[16-10-2024 17:26:28.437 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 04: Open Address Page
+[16-10-2024 17:26:28.583 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 05: Open Customer Info Page
+[21-10-2024 17:07:29.319 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:07:29.462 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:10:10.319 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:10:10.464 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:15:08.334 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:15:08.483 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:16:47.249 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:16:47.385 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:17:22.522 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:17:22.689 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:19:56.761 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:19:56.896 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:26:48.656 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:26:48.784 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:26:54.210 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:26:54.352 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:36:44.651 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:36:44.791 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:36:50.143 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 17:36:50.293 INFO com.nopcommerce.users.Level_15_ExtentReport_Version5] - -----------------------PASSED-----------------------
+[21-10-2024 22:48:08.902 INFO com.nopcommerce.users.Level_16_AllureReport] - -----------------------PASSED-----------------------
+[21-10-2024 22:48:10.085 INFO com.nopcommerce.users.Level_16_AllureReport] - -----------------------PASSED-----------------------
+[21-10-2024 23:01:53.099 INFO com.nopcommerce.users.Level_16_AllureReport] - -----------------------PASSED-----------------------
+[21-10-2024 23:01:53.296 INFO com.nopcommerce.users.Level_16_AllureReport] - -----------------------PASSED-----------------------
+[21-10-2024 23:18:44.160 INFO com.nopcommerce.users.Level_16_AllureReport] - -----------------------PASSED-----------------------
+[21-10-2024 23:18:44.382 INFO com.nopcommerce.users.Level_16_AllureReport] - -----------------------PASSED-----------------------
+[21-10-2024 23:20:10.365 INFO com.nopcommerce.users.Level_16_AllureReport] - -----------------------PASSED-----------------------
+[21-10-2024 23:20:10.575 INFO com.nopcommerce.users.Level_16_AllureReport] - -----------------------PASSED-----------------------
+[21-10-2024 23:21:39.828 INFO com.nopcommerce.users.Level_16_AllureReport] - -----------------------PASSED-----------------------
+[21-10-2024 23:21:40.020 INFO com.nopcommerce.users.Level_16_AllureReport] - -----------------------PASSED-----------------------
+[23-10-2024 10:57:40.361 INFO com.nopcommerce.users.Level_16_AllureReport] - -----------------------PASSED-----------------------
+[23-10-2024 10:57:41.808 INFO com.nopcommerce.users.Level_16_AllureReport] - -----------------------PASSED-----------------------
+[23-10-2024 16:54:19.854 INFO com.nopcommerce.users.Level_17_JIRA] - -----------------------PASSED-----------------------
+[23-10-2024 16:54:21.173 INFO com.nopcommerce.users.Level_17_JIRA] - -----------------------PASSED-----------------------
+[25-10-2024 17:06:15.356 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:06:16.618 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:06:16.638 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:06:16.659 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:06:16.778 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:06:16.812 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:06:17.045 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:06:17.061 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:06:17.075 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:08:25.333 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:08:25.499 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:08:25.518 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:08:25.542 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:08:25.653 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:08:25.686 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:08:25.922 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:08:25.936 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[25-10-2024 17:08:25.950 INFO com.nopcommerce.users.Level_19_Pattern_Object] - -----------------------PASSED-----------------------
+[28-10-2024 10:43:43.575 INFO com.nopcommerce.common.Login] - -----------------------PASSED-----------------------
+[28-10-2024 10:43:50.572 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - -----------------------PASSED-----------------------
+[28-10-2024 10:43:51.588 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - -----------------------PASSED-----------------------
+[28-10-2024 10:43:51.659 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - -----------------------PASSED-----------------------
+[28-10-2024 10:43:51.732 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - -----------------------PASSED-----------------------
+[28-10-2024 10:43:51.996 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - -----------------------PASSED-----------------------
+[28-10-2024 10:43:52.044 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - -----------------------PASSED-----------------------
+[28-10-2024 10:43:52.543 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - -----------------------PASSED-----------------------
+[28-10-2024 10:43:52.569 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - -----------------------FAILED-----------------------
+[28-10-2024 10:43:52.590 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - -----------------------PASSED-----------------------
+[28-10-2024 15:40:38.573 INFO com.nopcommerce.common.Login] - -----------------------PASSED-----------------------
+[28-10-2024 15:40:38.582 INFO com.nopcommerce.common.Login] - OS name = windows 11
+[28-10-2024 15:40:38.583 INFO com.nopcommerce.common.Login] - Driver instance name = firefoxdriver: firefox on windows (c9c30e98-d39c-4ab5-9d44-0da3e5ca2918)
+[28-10-2024 15:40:39.430 INFO com.nopcommerce.common.Login] - Browser closed successfully.
+[28-10-2024 15:40:46.571 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - OS name = windows 11
+[28-10-2024 15:40:46.571 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - Driver instance name = firefoxdriver: firefox on windows (88116302-5dd7-480f-aade-f537e95b5063)
+[28-10-2024 15:40:47.404 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - Browser closed successfully.
+[28-10-2024 15:43:37.896 INFO com.nopcommerce.common.Login] - -----------------------PASSED-----------------------
+[28-10-2024 15:48:24.988 INFO com.nopcommerce.common.Login] - -----------------------PASSED-----------------------
+[28-10-2024 15:48:24.996 INFO com.nopcommerce.common.Login] - OS name = windows 11
+[28-10-2024 15:48:24.996 INFO com.nopcommerce.common.Login] - Driver instance name = firefoxdriver: firefox on windows (f70e16e6-4e41-4cfb-90a3-9e7ca384602e)
+[28-10-2024 15:48:25.894 INFO com.nopcommerce.common.Login] - Browser closed successfully.
+[28-10-2024 15:48:33.072 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - OS name = windows 11
+[28-10-2024 15:48:33.072 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - Driver instance name = firefoxdriver: firefox on windows (2733cb71-4a7c-4ea6-801d-63daa5caad44)
+[28-10-2024 15:48:33.945 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - Browser closed successfully.
+[28-10-2024 15:49:48.117 INFO com.nopcommerce.common.Login] - -----------------------PASSED-----------------------
+[28-10-2024 15:49:48.129 INFO com.nopcommerce.common.Login] - OS name = windows 11
+[28-10-2024 15:49:48.130 INFO com.nopcommerce.common.Login] - Driver instance name = firefoxdriver: firefox on windows (dd3b5f87-c04d-41fa-bcaf-b1f00ca85f7c)
+[28-10-2024 15:49:49.132 INFO com.nopcommerce.common.Login] - Browser closed successfully.
+[28-10-2024 15:49:56.836 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - OS name = windows 11
+[28-10-2024 15:49:56.837 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - Driver instance name = firefoxdriver: firefox on windows (604cb64a-06f9-4320-b7a3-0fce59877776)
+[28-10-2024 15:49:57.639 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - Browser closed successfully.
+[28-10-2024 16:29:36.349 INFO com.nopcommerce.common.Login] - -----------------------PASSED-----------------------
+[28-10-2024 16:29:36.357 INFO com.nopcommerce.common.Login] - OS name = windows 11
+[28-10-2024 16:29:36.357 INFO com.nopcommerce.common.Login] - Driver instance name = firefoxdriver: firefox on windows (684916a3-94e3-466b-9365-9534de1fbd71)
+[28-10-2024 16:29:37.239 INFO com.nopcommerce.common.Login] - Browser closed successfully.
+[28-10-2024 16:29:44.154 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - OS name = windows 11
+[28-10-2024 16:29:44.155 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - Driver instance name = firefoxdriver: firefox on windows (ec360ce5-c21b-4c5e-b430-cd4e4e4ade5c)
+[28-10-2024 16:29:44.995 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - Browser closed successfully.
+[28-10-2024 16:32:44.234 INFO com.nopcommerce.common.Login] - -----------------------PASSED-----------------------
+[28-10-2024 16:32:44.242 INFO com.nopcommerce.common.Login] - OS name = windows 11
+[28-10-2024 16:32:44.242 INFO com.nopcommerce.common.Login] - Driver instance name = firefoxdriver: firefox on windows (8395e09b-7377-4aea-b70c-b8eae8a32605)
+[28-10-2024 16:32:45.225 INFO com.nopcommerce.common.Login] - Browser closed successfully.
+[28-10-2024 16:32:52.034 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - OS name = windows 11
+[28-10-2024 16:32:52.034 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - Driver instance name = firefoxdriver: firefox on windows (48da7f0b-773c-4652-be53-7992b0bb7924)
+[28-10-2024 16:32:52.888 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - Browser closed successfully.
+[06-11-2024 10:31:08.148 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 10:31:08.152 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (43b80d23-b8c1-4e0f-9a07-4a7cb929dc60)
+[06-11-2024 10:31:09.167 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 10:31:09.171 INFO com.orangehrm.pim.PIM_01_Employee] - Error during closing driver: Cannot run program "pkill": CreateProcess error=2, The system cannot find the file specified
+[06-11-2024 10:32:31.077 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 10:32:31.079 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (e4289099-31d4-43b8-b426-4232e50405a5)
+[06-11-2024 10:32:32.068 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 10:32:32.072 INFO com.orangehrm.pim.PIM_01_Employee] - Error during closing driver: Cannot run program "pkill": CreateProcess error=2, The system cannot find the file specified
+[06-11-2024 10:38:20.243 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 10:38:20.247 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (d80375d6-3e3e-4008-b03f-6de0878df89c)
+[06-11-2024 10:38:21.216 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 10:38:21.221 INFO com.orangehrm.pim.PIM_01_Employee] - Error during closing driver: Cannot run program "pkill": CreateProcess error=2, The system cannot find the file specified
+[06-11-2024 10:40:06.367 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 10:40:06.370 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (256b6979-bd67-4e09-ac05-3ef3dad03d8c)
+[06-11-2024 10:40:07.484 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 13:35:08.285 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 13:35:08.289 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (d936e96b-1a25-4f09-b178-4a86b6ca74e6)
+[06-11-2024 13:35:09.702 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 16:31:29.126 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------FAILED-----------------------
+[06-11-2024 16:31:31.616 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 16:31:31.617 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (beaf121b-b0f6-4788-b201-368fd920bb76)
+[06-11-2024 16:31:32.763 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 16:34:34.696 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------FAILED-----------------------
+[06-11-2024 16:34:36.864 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 16:34:36.865 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (c402afe0-16d0-4985-8db8-e3ecd41d62ab)
+[06-11-2024 16:34:37.898 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 16:35:30.239 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------FAILED-----------------------
+[06-11-2024 16:35:33.049 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[06-11-2024 16:35:36.803 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[06-11-2024 16:35:36.821 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 16:35:36.822 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (c73327fc-7a96-42fc-aa77-e34a515e41f3)
+[06-11-2024 16:35:37.799 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 16:40:31.076 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------FAILED-----------------------
+[06-11-2024 16:40:33.852 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[06-11-2024 16:40:37.579 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[06-11-2024 16:40:37.597 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 16:40:37.597 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (7f2dff18-3a76-43a1-b131-1d9a0f1331d5)
+[06-11-2024 16:40:38.571 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 16:43:39.592 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------FAILED-----------------------
+[06-11-2024 16:43:39.713 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 16:43:39.713 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (22df70c6-11d6-412e-95a0-6719e56ac7d4)
+[06-11-2024 16:43:40.926 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 16:44:24.777 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------FAILED-----------------------
+[06-11-2024 16:44:24.896 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 16:44:24.897 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (2926762a-1817-41ae-b351-a77353c05fc0)
+[06-11-2024 16:44:25.975 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 16:47:42.992 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[06-11-2024 16:47:43.078 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 16:47:43.078 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (e74afa9b-2afe-4a3d-a261-8cc96547121a)
+[06-11-2024 16:47:44.178 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 16:48:13.833 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------FAILED-----------------------
+[06-11-2024 16:48:13.943 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 16:48:13.943 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (1fe816de-6faa-4f42-9651-8dc531af4da8)
+[06-11-2024 16:48:15.076 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 16:49:41.958 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[06-11-2024 16:49:42.063 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 16:49:42.064 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (fe56868d-7da4-4e3e-b185-4c1f651ad429)
+[06-11-2024 16:49:43.041 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 16:50:36.158 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[06-11-2024 16:50:37.669 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[06-11-2024 16:50:41.385 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[06-11-2024 16:50:41.416 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 16:50:41.417 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (b4c69a73-8f62-4535-9161-a51bfa459b4d)
+[06-11-2024 16:50:42.305 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[06-11-2024 16:52:22.615 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[06-11-2024 16:52:24.248 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[06-11-2024 16:52:27.953 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[06-11-2024 16:52:27.970 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[06-11-2024 16:52:27.970 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (47646700-40e8-42b4-8d23-9568319eef55)
+[06-11-2024 16:52:28.923 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 14:53:00.478 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 14:53:02.669 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 14:53:05.871 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 14:54:22.284 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 14:54:23.944 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 14:54:27.622 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:02:40.003 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:02:41.602 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:02:45.336 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:02:49.950 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 15:02:49.951 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (c94fe8e1-2aa2-4011-a309-e2d4a3804fd2)
+[11-11-2024 15:02:50.661 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 15:04:49.095 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:04:51.052 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:04:54.792 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:17:25.117 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:17:27.224 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:17:30.384 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:19:22.272 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:19:23.919 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:19:27.667 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:19:42.619 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 15:19:42.619 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (a2b56fdb-63ba-481a-8037-5d66ade3e053)
+[11-11-2024 15:19:43.584 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 15:23:33.641 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:23:35.737 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:23:38.963 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:24:24.391 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 15:24:24.391 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (6334e1bd-3fdd-4509-9021-a8a42049a9ee)
+[11-11-2024 15:24:25.193 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 15:24:52.444 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:24:54.228 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:24:57.910 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:25:42.803 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 15:25:42.803 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (2e601111-842b-4508-aaa9-5ff71e38acea)
+[11-11-2024 15:25:44.230 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 15:29:07.139 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:29:08.766 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:29:12.483 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:30:50.950 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:30:52.840 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:30:56.578 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:31:42.451 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 15:31:42.452 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (3ce0ed46-ea9a-442a-a950-4dc3e7c2c1e4)
+[11-11-2024 15:31:43.240 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 15:32:57.777 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:32:59.961 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:33:03.150 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:34:41.346 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:34:43.027 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:34:46.739 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:35:01.685 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 15:35:01.686 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (1e59c783-7d2b-4b7b-8b37-7325f1b1e5b2)
+[11-11-2024 15:35:02.558 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 15:38:26.499 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:38:28.206 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:38:31.898 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:38:48.324 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 15:38:48.325 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (0134d376-0409-47f0-90c8-d21854e46490)
+[11-11-2024 15:38:49.670 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 15:39:55.741 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:39:57.852 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:40:01.047 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:43:59.083 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:44:00.961 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:44:04.609 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:47:50.893 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:47:52.452 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 15:47:56.190 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 19:50:57.776 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 19:50:59.471 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 19:51:03.186 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 19:51:18.352 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 19:51:18.352 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (73bab63d-2365-4e46-93a1-270bbd8cb2ef)
+[11-11-2024 19:51:19.227 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 19:52:30.898 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 19:52:32.869 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 19:52:35.985 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 19:52:57.638 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 19:52:57.641 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (f6871a31-5e47-485f-87e8-6a7a896610e8)
+[11-11-2024 19:52:58.500 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 20:05:10.592 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:05:12.120 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:05:15.773 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:05:36.985 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 20:05:36.985 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (520bf4f9-f49b-4a91-ae0e-45421b50fd5e)
+[11-11-2024 20:05:37.844 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 20:10:06.786 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:10:08.328 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:10:11.975 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:10:33.178 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 20:10:33.178 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (66dcea30-c4a8-435d-b829-40157248b457)
+[11-11-2024 20:10:34.049 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 20:12:38.534 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:12:39.994 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:12:43.652 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:13:43.718 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 20:13:43.718 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (797c0eaa-051c-4ba3-96ad-60c4a130e7f2)
+[11-11-2024 20:14:06.079 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:14:07.615 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:14:11.254 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:14:32.421 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 20:14:32.421 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (d6a289e7-e97e-4ae9-97a0-c45054d894a3)
+[11-11-2024 20:14:33.415 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 20:19:09.441 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:19:11.388 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:19:14.509 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:19:37.032 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 20:19:37.032 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (de73756f-d51d-4354-99d9-d5304ca5ad32)
+[11-11-2024 20:19:37.869 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 20:20:22.445 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:20:23.923 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:20:27.571 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:21:20.076 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 20:21:20.076 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (75a7ab9e-8eff-436f-97c4-17382ae4a382)
+[11-11-2024 20:21:21.088 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 20:22:30.482 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:22:32.438 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:22:35.558 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:23:43.216 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:23:44.696 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:23:48.424 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:24:20.733 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 20:24:20.733 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (21ff938b-5767-4167-97e6-e3aa879d4412)
+[11-11-2024 20:24:21.579 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.
+[11-11-2024 20:26:20.024 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:26:21.567 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:26:25.184 INFO com.orangehrm.pim.PIM_01_Employee] - -----------------------PASSED-----------------------
+[11-11-2024 20:26:58.700 INFO com.orangehrm.pim.PIM_01_Employee] - OS name = Windows 11
+[11-11-2024 20:26:58.700 INFO com.orangehrm.pim.PIM_01_Employee] - Driver instance name = firefoxdriver: firefox on windows (88bf0c91-3ac2-405c-ad90-d3fee82c5be9)
+[11-11-2024 20:26:59.594 INFO com.orangehrm.pim.PIM_01_Employee] - Browser closed successfully.

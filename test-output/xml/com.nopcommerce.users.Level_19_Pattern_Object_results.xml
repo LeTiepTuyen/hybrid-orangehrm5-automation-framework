@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on firefox driver"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.929">
+  <properties />
+  
+  
+            <testcase name="User_02_Login" time="0.598" classname="com.nopcommerce.users.Level_19_Pattern_Object" />
+                <testcase name="User_01_Register" time="1.996" classname="com.nopcommerce.users.Level_19_Pattern_Object" />
+                <testcase name="User_04_Swich_Page_With_Switch_Case" time="0.723" classname="com.nopcommerce.users.Level_19_Pattern_Object" />
+                <testcase name="User_03_MyAccount" time="0.612" classname="com.nopcommerce.users.Level_19_Pattern_Object" />
+      
+</testsuite>

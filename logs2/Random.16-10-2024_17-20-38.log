@@ -1,0 +1,62 @@
+[16-10-2024 17:20:44.622 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 01: Open Register Page
+[16-10-2024 17:20:44.958 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 02: Click To Male Radio
+[16-10-2024 17:20:45.334 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 03: Enter To First Name TextboxJohn
+[16-10-2024 17:20:45.468 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 04: Enter To Last Name TextboxWick
+[16-10-2024 17:20:45.523 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 05: Select Day Dropdown31
+[16-10-2024 17:20:45.813 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 06: Select Month DropdownJanuary
+[16-10-2024 17:20:46.132 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 07: Select Year Dropdown2002
+[16-10-2024 17:20:46.403 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 08: Enter To Email Textboxjohnwick134358@gmail.com
+[16-10-2024 17:20:46.454 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 09: Enter To Company TextboxJohn Wick Company
+[16-10-2024 17:20:46.510 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 10: Enter To Password Textbox123456789
+[16-10-2024 17:20:46.557 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 11: Enter To Confirm Password Textbox123456789
+[16-10-2024 17:20:46.608 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 12: Click To Register Button
+[16-10-2024 17:20:46.889 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 13: Verify Register Success Message
+[16-10-2024 17:20:46.947 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 01: Click To Logout Link
+[16-10-2024 17:20:47.166 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 02: Open Home Page
+[16-10-2024 17:20:47.354 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 03: Enter To Email Textboxjohnwick134358@gmail.com
+[16-10-2024 17:20:47.671 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 04: Verify My Account Link Displayed
+[16-10-2024 17:20:47.731 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 01: Open Customer Info Page
+[16-10-2024 17:20:47.911 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 02: Verify Gender Male Radio is selected
+[16-10-2024 17:20:47.943 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 03: Verify First Name Textbox is displayedJohn
+[16-10-2024 17:20:47.970 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 04: Verify Last Name Textbox is displayedWick
+[16-10-2024 17:20:47.997 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 05: Verify Day Dropdown is displayed31
+[16-10-2024 17:20:48.147 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 06: Verify Month Dropdown is displayedJanuary
+[16-10-2024 17:20:48.198 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 07: Verify Year Dropdown is displayed2002
+[16-10-2024 17:20:48.512 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 08: Verify Email Textbox is displayedjohnwick134358@gmail.com
+[16-10-2024 17:20:48.533 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 09: Verify Company Textbox is displayedJohn Wick Company
+[16-10-2024 17:20:48.556 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 01: Open Address Page
+[16-10-2024 17:20:48.716 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 02: Open Reward Point Page
+[16-10-2024 17:20:48.937 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 03: Open Order Page
+[16-10-2024 17:20:49.165 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 04: Open Address Page
+[16-10-2024 17:20:49.331 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 05: Open Customer Info Page
+[16-10-2024 17:20:56.731 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 01: Open Register Page
+[16-10-2024 17:20:56.992 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 02: Click To Male Radio
+[16-10-2024 17:20:57.126 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 03: Enter To First Name TextboxJohn
+[16-10-2024 17:20:57.292 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 04: Enter To Last Name TextboxWick
+[16-10-2024 17:20:57.432 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 05: Select Day Dropdown31
+[16-10-2024 17:20:57.562 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 06: Select Month DropdownJanuary
+[16-10-2024 17:20:57.667 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 07: Select Year Dropdown2002
+[16-10-2024 17:20:57.772 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 08: Enter To Email Textboxjohnwick147436@gmail.com
+[16-10-2024 17:20:58.045 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 09: Enter To Company TextboxJohn Wick Company
+[16-10-2024 17:20:58.234 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 10: Enter To Password Textbox123456789
+[16-10-2024 17:20:58.392 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 11: Enter To Confirm Password Textbox123456789
+[16-10-2024 17:20:58.543 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 12: Click To Register Button
+[16-10-2024 17:20:58.728 INFO com.nopcommerce.users.Level_14_Log4J] - User_01_Register - Step 13: Verify Register Success Message
+[16-10-2024 17:20:58.824 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 01: Click To Logout Link
+[16-10-2024 17:20:59.031 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 02: Open Home Page
+[16-10-2024 17:20:59.217 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 03: Enter To Email Textboxjohnwick147436@gmail.com
+[16-10-2024 17:20:59.737 INFO com.nopcommerce.users.Level_14_Log4J] - User_02_Login - Step 04: Verify My Account Link Displayed
+[16-10-2024 17:20:59.834 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 01: Open Customer Info Page
+[16-10-2024 17:21:00.017 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 02: Verify Gender Male Radio is selected
+[16-10-2024 17:21:00.062 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 03: Verify First Name Textbox is displayedJohn
+[16-10-2024 17:21:00.106 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 04: Verify Last Name Textbox is displayedWick
+[16-10-2024 17:21:00.151 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 05: Verify Day Dropdown is displayed31
+[16-10-2024 17:21:00.441 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 06: Verify Month Dropdown is displayedJanuary
+[16-10-2024 17:21:00.512 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 07: Verify Year Dropdown is displayed2002
+[16-10-2024 17:21:01.206 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 08: Verify Email Textbox is displayedjohnwick147436@gmail.com
+[16-10-2024 17:21:01.244 INFO com.nopcommerce.users.Level_14_Log4J] - User_03_MyAccount - Step 09: Verify Company Textbox is displayedJohn Wick Company
+[16-10-2024 17:21:01.281 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 01: Open Address Page
+[16-10-2024 17:21:01.454 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 02: Open Reward Point Page
+[16-10-2024 17:21:01.622 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 03: Open Order Page
+[16-10-2024 17:21:01.807 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 04: Open Address Page
+[16-10-2024 17:21:01.969 INFO com.nopcommerce.users.Level_14_Log4J] - User_04_Swich_Page_With_Switch_Case - Step 05: Open Customer Info Page

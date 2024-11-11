@@ -1,0 +1,7 @@
+[28-10-2024 16:32:44.234 INFO com.nopcommerce.common.Login] - -----------------------PASSED-----------------------
+[28-10-2024 16:32:44.242 INFO com.nopcommerce.common.Login] - OS name = windows 11
+[28-10-2024 16:32:44.242 INFO com.nopcommerce.common.Login] - Driver instance name = firefoxdriver: firefox on windows (8395e09b-7377-4aea-b70c-b8eae8a32605)
+[28-10-2024 16:32:45.225 INFO com.nopcommerce.common.Login] - Browser closed successfully.
+[28-10-2024 16:32:52.034 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - OS name = windows 11
+[28-10-2024 16:32:52.034 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - Driver instance name = firefoxdriver: firefox on windows (48da7f0b-773c-4652-be53-7992b0bb7924)
+[28-10-2024 16:32:52.888 INFO com.nopcommerce.users.Level_20_Share_State_Close_Browser] - Browser closed successfully.
